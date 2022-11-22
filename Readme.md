@@ -1,4 +1,4 @@
-------------------Kurulum ---------------
+----------------Kurulum ---------------
 
 git clone https://github.com/hoqk4baz/instadenetle.git
 
@@ -10,7 +10,7 @@ python3 insta-denetle.py
 
 
 
-------------- KOD AMACI NEDİR -----------
+---------- KOD AMACI NEDİR ----------
 
 PAYLAŞILAN HERHANGİ BİR POSTU TAKİPÇİLERİNİZDEN
 KİM BEĞENMİŞ ONLARIN LİSTESİNİ GETİRİR

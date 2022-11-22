@@ -1,0 +1,3 @@
+pip install instagrapi
+pip install pillow
+pip install pwinput

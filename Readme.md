@@ -1,6 +1,6 @@
 ---------------------Kurulum --------------------
 
-gitclone https://github.com/hoqk4baz/instadenetle.git
+git clone https://github.com/hoqk4baz/instadenetle.git
 
 cd instadenetle && pip install -r requirements.txt
 

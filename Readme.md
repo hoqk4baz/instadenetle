@@ -12,7 +12,7 @@ python3 insta-denetle.py
 
 ---------- KOD AMACI NEDİR ----------
 
-PAYLAŞILAN HERHANGİ BİR POSTU TAKİPÇİLERİNİZDEN
+İNSTAGRAMDA PAYLAŞILAN HERHANGİ BİR POSTU TAKİPÇİLERİNİZDEN
 KİM BEĞENMİŞ ONLARIN LİSTESİNİ GETİRİR
 
 ------------------------------------------

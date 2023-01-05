@@ -117,4 +117,5 @@ with open('karşılaştır.txt', 'w') as cikis:
 havali("TAKİP ETTİĞİN KİŞİLER ARASINDA PAYLAŞTIĞIN POSTU BEĞENENLER", 0.04)
 os.remove("kullanıcılar.txt")
 os.remove("begenenler.txt")
+#--------Dark ENZA --------#
 
